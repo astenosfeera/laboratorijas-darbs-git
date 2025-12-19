@@ -1,0 +1,1 @@
+# laboratorijas-darbs-git
